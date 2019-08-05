@@ -16,7 +16,7 @@ def hopper
         }
      }
   programmer_hash[:dennis_ritchie][:known_for] = "Unix"
-  programmer_hash[:dennis_ritchie][:languages] = "Unix"
+  programmer_hash[:dennis_ritchie][:languages] = "C"
 end
 
 
