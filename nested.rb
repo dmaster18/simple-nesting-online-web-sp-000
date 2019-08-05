@@ -17,7 +17,7 @@ def hopper
      }
 end
 
-h
+
 
 
 def alan_kay_is_known_for
