@@ -60,6 +60,7 @@ end
 
 def adding_matz
   programmer_hash[:yukihiro_matsumuto][:known_for] = "Ruby"
+  programmer_hash[:yukihiro_matsumuto][:languages]
   
 # add the following information to the top level of programmer_hash
 # :yukihiro_matsumoto => {
