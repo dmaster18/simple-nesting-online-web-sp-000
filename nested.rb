@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-  programmer_hash[:dennis_ritchie]
+  programmer_hash[:dennis_ritchie][:known_for] = 
 end
 
 
